@@ -10,10 +10,6 @@ With Gitpod, you can easily set up the project environment and start using these
 
 ## Prerequisites
 
-Certainly! Here's an updated version of the Prerequisites section that explains Gitpod in an easy-to-understand manner for a junior developer:
-
-## Prerequisites
-
 Before getting started, make sure you have the following prerequisites:
 
 - **Git**: Git is a version control system that allows you to track changes in your code and collaborate with others. If you don't have Git installed, you can download and install it from the official website: [Git Downloads](https://git-scm.com/downloads).
