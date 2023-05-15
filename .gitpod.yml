@@ -3,7 +3,6 @@ image: python:3.9
 # Install required packages
 tasks:
   - command: "pip install pandas matplotlib"
-  - command: "cp assets/sourcestack-data-id_bcu86flyul.csv /workspace/assets/sourcestack-data-id_bcu86flyul.csv"
 
 # Open the data_analysis.py file
 vscode:
