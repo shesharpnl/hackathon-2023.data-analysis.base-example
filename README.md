@@ -10,10 +10,16 @@ With Gitpod, you can easily set up the project environment and start using these
 
 ## Prerequisites
 
+Certainly! Here's an updated version of the Prerequisites section that explains Gitpod in an easy-to-understand manner for a junior developer:
+
+## Prerequisites
+
 Before getting started, make sure you have the following prerequisites:
 
-- **Git**: Git is a version control system that allows you to track changes in your code and collaborate with others. If you don't have Git installed, you can download and install it from the official website: Git Downloads.
-- **Gitpod account**: Gitpod is an online integrated development environment (IDE) that makes it easy to set up and work on projects without the need to install any software locally on your computer. With Gitpod, you can quickly start coding in a fully-featured development environment right from your web browser. To get started, you'll need to sign up for a free Gitpod account on the Gitpod website: Gitpod Sign Up
+- **Git**: Git is a version control system that allows you to track changes in your code and collaborate with others. If you don't have Git installed, you can download and install it from the official website: [Git Downloads](https://git-scm.com/downloads).
+- **Gitpod account**: Gitpod is an online integrated development environment (IDE) that makes it easy to set up and work on projects without the need to install any software locally on your computer. With Gitpod, you can quickly start coding in a fully-featured development environment right from your web browser. To get started, you'll need to sign up for a free Gitpod account on the Gitpod website: [Gitpod Sign Up](https://www.gitpod.io/)
+
+Once you have Git and a Gitpod account set up, you'll be ready to fork and work on projects using Gitpod's online IDE.
 
 ## Installation
 
