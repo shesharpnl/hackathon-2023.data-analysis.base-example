@@ -1,6 +1,6 @@
 # hackathon-2023.data-analysis.base-example
 
-This project utilizes Python, Pandas and Gitpod for data analysis of job data available in CSV format.  
+This project utilizes [Python](https://www.python.org/), [Pandas](https://pandas.pydata.org/), and [Gitpod](https://www.gitpod.io/) for data analysis of job data available in CSV format.
 
 Pandas is a powerful data manipulation and analysis library for Python. It provides data structures and functions to efficiently handle and analyze structured data.
 
@@ -141,7 +141,7 @@ Thank you for your contributions!
 
 ## Credits
 
-The job data has been retrieved using [SourceStack](sourcestack.co).
+The job data has been retrieved using [SourceStack](https://sourcestack.co).
 
 ## License
 
