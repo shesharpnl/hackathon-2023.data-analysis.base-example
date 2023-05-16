@@ -8,7 +8,6 @@ With Gitpod, you can easily set up the project environment and start using these
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,12 +17,6 @@ With Gitpod, you can easily set up the project environment and start using these
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-
-## `hackathon-2023.data-analysis.base-example`
-
-### Introduction
-
-This project utilizes Python, Pandas, and Gitpod for data analysis of job data available in CSV format. Pand
 
 ## Prerequisites
 
