@@ -1,12 +1,29 @@
 # hackathon-2023.data-analysis.base-example
 
-## Introduction
-
 This project utilizes Python, Pandas and Gitpod for data analysis of job data available in CSV format.  
 
 Pandas is a powerful data manipulation and analysis library for Python. It provides data structures and functions to efficiently handle and analyze structured data.
 
 With Gitpod, you can easily set up the project environment and start using these libraries for your data analysis.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How this project works](#how-this-project-works)
+   - [Gitpod workspace](#gitpod-workspace)
+   - [Python script](#python-script)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [License](#license)
+
+## `hackathon-2023.data-analysis.base-example`
+
+### Introduction
+
+This project utilizes Python, Pandas, and Gitpod for data analysis of job data available in CSV format. Pand
 
 ## Prerequisites
 
@@ -48,6 +65,9 @@ To use the Pandas and Matplotlib libraries for data analysis, follow these steps
 ![Screenshot of the Gitpod output](images/gitpod-output-screenshot.png)
 
 ## How this project works
+
+- [Gitpod workspace](#gitpod-workspace)
+- [Python script](#python-script)
 
 ### Gitpod workspace
 
