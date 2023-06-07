@@ -49,7 +49,7 @@ To use the Pandas and Matplotlib libraries for data analysis, follow these steps
    python data_analysis.py
    ```
 
-3. The script will generate a bar plot based on the provided CSV data and save it as `bar_plot.png`. A "plot" is a visual representation of data using a specific chart or graph type.
+3. The script will generate a bar plot based on the provided CSV data and save it as `test_bar_plot.png`. A "plot" is a visual representation of data using a specific chart or graph type.
 
 4. You can view the generated plot by clicking on the "Preview" button in the top right corner of the Gitpod IDE. The plot will be displayed in the Gitpod preview.
 
@@ -89,14 +89,14 @@ Overall, this `.gitpod.yml` file sets up a Python 3.9 environment, installs the 
 
 ### Python script
 
-The `data_analysis.py` file performs some basic data analysis and visualization tasks on the CSV file `assets/sourcestack-data-id_bcu86flyul.csv` located in this repository.
+The `data_analysis.py` file performs some basic data analysis and visualization tasks on the CSV file `assets/sourcestack-data.csv` located in this repository.
 
 1. Importing libraries:
    - `pandas` is imported as `pd` to handle data manipulation and analysis.
    - `matplotlib.pyplot` is imported as `plt` to create visualizations.
 
 2. Reading the CSV file:
-   - The code reads a CSV file named `'assets/sourcestack-data-id_bcu86flyul.csv'` using the `pd.read_csv()` function.
+   - The code reads a CSV file named `'assets/sourcestack-data.csv'` using the `pd.read_csv()` function.
 
 3. Creating a new figure:
    - A new figure with a size of 15x10 inches is created using `plt.figure(figsize=(15, 10))`.
@@ -112,12 +112,12 @@ The `data_analysis.py` file performs some basic data analysis and visualization 
    - A margin of 0.1 is added to the plot to prevent the labels from being cut off using `plt.margins(0.1)`.
 
 7. Saving the plot as a PNG image:
-   - The plot is saved as a PNG image file named `'bar_plot.png'` using `plt.savefig(image_path)`.
+   - The plot is saved as a PNG image file named `'test_bar_plot.png'` using `plt.savefig(image_path)`.
 
 8. Script completion message:
    - After all the tasks are completed, a message is printed to indicate that the script execution is completed.
 
-This script essentially reads a CSV file, creates a bar plot of the values in the 'hours' column, and saves the plot as a PNG image file named `'bar_plot.png'`. Throughout the script, print statements are used to provide information about the progress of each step.
+This script essentially reads a CSV file, creates a bar plot of the values in the 'hours' column, and saves the plot as a PNG image file named `'test_bar_plot.png'`. Throughout the script, print statements are used to provide information about the progress of each step.
 
 ## Contributing
 

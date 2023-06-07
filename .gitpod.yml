@@ -2,7 +2,8 @@ image: python:3.9
 
 # Install required packages
 tasks:
-  - command: "pip install pandas matplotlib"
+  - command: "pip install pandas matplotlib requests"
+  - command: "python import_job_posting_data.py"
 
 # Open the data_analysis.py file
 vscode:

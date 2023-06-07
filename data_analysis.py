@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Read the CSV file into a pandas DataFrame
 print("Reading the CSV file...")
-df = pd.read_csv('assets/sourcestack-data-id_bcu86flyul.csv')
+df = pd.read_csv('assets/sourcestack-data.csv')
 
 # Create a new figure with a size of 15x10 inches
 print("Creating a new figure...")
@@ -22,7 +22,7 @@ print("Adding margins to the plot...")
 plt.margins(0.1)
 
 # Save the plot as a PNG image file named 'bar_plot.png'
-image_path = 'bar_plot.png'
+image_path = 'test_bar_plot.png'
 print(f"Saving the bar plot as '{image_path}'...")
 plt.savefig(image_path)
 
