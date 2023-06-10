@@ -44,7 +44,15 @@ To use the Pandas and Matplotlib libraries for data analysis, follow these steps
 
 1. Open the `data_analysis.py` file in the IDE interface provided by Gitpod. You can find it in the project files: "Explorer" section (top right of the IDE).
 
-2. In the Gitpod terminal, execute the `data_analysis.py` script using the following command:
+2. In the Gitpod terminal, execute the `import_job_posting_data.py` script using the following command:
+
+   ```bash
+   python import_job_posting_data.py
+   ```
+   
+This command will call an URL, import the job posting data in your Gitpod environment as CSV and store it in a newly created `assets` folder.
+
+3. In the Gitpod terminal, execute the `data_analysis.py` script using the following command:
 
    ```bash
    python data_analysis.py
