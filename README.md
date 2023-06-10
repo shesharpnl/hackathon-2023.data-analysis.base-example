@@ -33,7 +33,7 @@ To start using this project in Gitpod, follow these steps:
 
 1. Fork the repository by clicking the "Fork" button in the top right corner of the repository page. This creates a copy of the repository in your GitHub account.
 
-2. Replace `YOUR_USERNAME` with your GitHub username and open the following URL in your browser to open this repository in Gitpod:
+2. Copy the URL below, replace `YOUR_USERNAME` with your GitHub username and open the following URL in your browser to open this repository in Gitpod:  
    https://gitpod.io/#https://github.com/YOUR_USERNAME/hackathon-2023.data-analysis.base-example
 
 4. Gitpod will open the project in a new workspace, providing you with an integrated development environment (IDE) for writing and running code.
