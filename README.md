@@ -42,27 +42,30 @@ To start using this project in Gitpod, follow these steps:
 
 To use the Pandas and Matplotlib libraries for data analysis, follow these steps:
 
-1. Open the `data_analysis.py` file in the IDE interface provided by Gitpod. You can find it in the project files: "Explorer" section (top right of the IDE).
+1. When you open the Gitpod workspace for the first time, you will see that the terminal is "doing stuff": that's expected, and it's the execution of a command that's installing the necessary python resources.
 
-2. In the Gitpod terminal, execute the `import_job_posting_data.py` script using the following command:
+2. In the Gitpod workspace terminal, write the command below and press enter to execute the `import_job_posting_data.py` script:
 
    ```bash
    python import_job_posting_data.py
    ```
-   
-This command will call an URL, import the job posting data in your Gitpod environment as CSV and store it in a newly created `assets` folder.
 
-3. In the Gitpod terminal, execute the `data_analysis.py` script using the following command:
+
+3. Open the `data_analysis.py` file in the IDE interface provided by Gitpod. You can find it in the project files: "Explorer" section (top right of the IDE). This file contains the data analysis steps.  
+
+This command will call a URL, import the job posting data in your Gitpod environment as CSV file and store it in a newly created `assets` folder.
+
+4. In the Gitpod terminal, execute the `data_analysis.py` script using the following command:
 
    ```bash
    python data_analysis.py
    ```
 
-3. The script will generate a bar plot based on the provided CSV data and save it as `test_bar_plot.png`. A "plot" is a visual representation of data using a specific chart or graph type.
+5. The script will generate a bar plot based on the provided CSV data and save it as `test_bar_plot.png`. A "plot" is a visual representation of data using a specific chart or graph type.
 
-4. You can view the generated plot by clicking on the "Preview" button in the top right corner of the Gitpod IDE. The plot will be displayed in the Gitpod preview.
+6. You can view the generated plot by clicking on the "Preview" button in the top right corner of the Gitpod IDE. The plot will be displayed in the Gitpod preview.
 
-5. Feel free to explore and modify the code to perform additional data analysis tasks using Pandas and Matplotlib.
+7. Feel free to explore and modify the code to perform additional data analysis tasks using Pandas and Matplotlib.
 
 ![Screenshot of the Gitpod output](images/gitpod-output-screenshot.png)
 
